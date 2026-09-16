@@ -1,4 +1,4 @@
-# Praktikum 1 - Eksplorasi Data (EDA)
+# Tugas Mandiri 1 - Eksplorasi Data (EDA)
 Mata Kuliah: Pembelajaran Mesin (INF62325)
 Nama : Abdullah Fattah
 NIM : 2488010067
